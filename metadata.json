@@ -1,0 +1,7 @@
+{
+  "name": "Gemini 语音大师 (Pro)",
+  "description": "基于 Gemini 2.5 Flash 驱动的尖端文字转语音实验场，支持实时 PCM 音频合成与多角色对话功能。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
